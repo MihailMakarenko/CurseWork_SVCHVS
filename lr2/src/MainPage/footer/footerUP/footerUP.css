@@ -1,0 +1,24 @@
+.section-information{
+    max-width: 221px;
+    text-align: start;
+margin: auto;
+margin-top: 0px;
+}
+
+.section-information ul{
+    padding-left: 0;
+    list-style-type: none;
+    margin-left: 0;
+}
+
+.section-information ul li{
+    margin-top: 10px;
+}
+
+.footer-up-container{
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    flex-wrap: wrap;
+}
